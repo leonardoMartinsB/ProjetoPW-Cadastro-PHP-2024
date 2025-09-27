@@ -27,10 +27,6 @@ O principal objetivo foi criar um formulário funcional capaz de coletar e proce
 
 <img width="1440" height="733" alt="image" src="https://github.com/user-attachments/assets/b0501125-fd97-4ace-b299-ea00ed8d3b3e" />
 
-
-🔗 **Acesse o projeto online:**
-👉 [Clique aqui para visualizar](https://leonardomartinsb.github.io/PW---Cadastro-PHP/)
-
 ---
 
 ## 🛠️ Tecnologias Utilizadas
